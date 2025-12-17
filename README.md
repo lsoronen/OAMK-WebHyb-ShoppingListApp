@@ -2,7 +2,7 @@
 Web- ja hybriditeknologiat mobiiliohjelmoinnissa IN00CT08-3
 
 Kurssin viikkotehtävän 8 palautus. 
-Sovellus vaatii OpenWeather API avaimen toimiakseen.
+Sovellus vaatii API avaimen toimiakseen.
 
 Ostoslistalta voi yliviiva tuotteita napautuksella.
 
